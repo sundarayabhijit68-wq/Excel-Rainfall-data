@@ -1,0 +1,16 @@
+Odisha Rainfall Data Analysis - (1901 - 2015)
+Hello , We Abhijit and Aditya are excited to share our project on analyzing the rainfall dataset in india from 1901 to 2015.
+
+## Dataset used
+- <a href="https://github.com/sundarayabhijit68-wq/Excel-Rainfall-data/blob/0ef41c369655d43d411465cdafeee7f7db94b643/Odisha%20Rainfall.xlsx">Dataset View</a>
+Data Used 
+Website - (https://www.data.gov.in/catalog/rainfall-india)
+
+Data View
+Key Points - 
+- Cleaned and preprocessed rainfall datasets
+- Monthly and yearly rainfall trend analysis
+- Visualizations (line charts, heatmaps, box plots , etc...)
+
+🛠️ Tech Stack 
+- GitHub for version control and collaboration
